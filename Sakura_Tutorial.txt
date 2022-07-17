@@ -20,7 +20,7 @@ gcc Sakura_CNC.c -o Sakura -pthread
 
 python Sakura_Build.py Sakura_Bot.c [SERVERIP]
 
-screen ./Sakura 12345 1 54321
+screen ./Sakura 606 1 909
 --------------------------------------------------------------------
 Now press ctrl-A+D   *If screen doesnt work then type "pkill screen" then try to screen again.
 
